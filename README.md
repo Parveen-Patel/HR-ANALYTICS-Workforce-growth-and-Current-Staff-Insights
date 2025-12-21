@@ -59,17 +59,20 @@ The goal is to help HR teams monitor employee metrics, identify patterns, and ma
 
 ---
 
-## 📂 Repository Structure
-HR-ANALYTICS/
-├── data/
-│   └── Nazdate_Hr_Data.xlsx            # Raw HR dataset (Nazdate Chocolate HR Data)
-│
-├── reports/
-│   └── HR Analytics Dashboard.pbix     # Power BI dashboard file
-│
-├── docs/
-│   └── HR ANALYTICS.png                # Dashboard screenshot/preview image
-│
-└── README.md                           # Project documentation
+## 📂 Repository Contents
+- `Nazdate_Hr_Data.xlsx` → Raw HR dataset (Nazdate Chocolate HR Data).
+- `HR Analytics Dashboard.pbix` → Power BI dashboard file.
+- `HR ANALYTICS.png` → Image of the dashboard.
+- `README.md` → Documentation.
+
+
+---
+
+## 📸 Dashboard Preview
+https://github.com/Parveen-Patel/Road-Risk-Analytics-in-MS-Excel/blob/main/Road%20Risk%20Analytics%20project.png
+
+
+---
+
 
 
