@@ -69,10 +69,7 @@ The goal is to help HR teams monitor employee metrics, identify patterns, and ma
 ---
 
 ## 📸 Dashboard Preview
-https://github.com/Parveen-Patel/Road-Risk-Analytics-in-MS-Excel/blob/main/Road%20Risk%20Analytics%20project.png
-
-
----
+https://github.com/Parveen-Patel/HR-ANALYTICS-Workforce-growth-and-Current-Staff-Insights/blob/main/HR%20ANALYTICS.png
 
 
 
