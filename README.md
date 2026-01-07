@@ -1,8 +1,8 @@
 # HR-ANALYTICS-Workforce-growth-and-Current-Staff-Insights
 Power BI HR Analytics Dashboard using Nazdate Chocolate Company's HR Data, focusing on workforce growth and current staff insights. It Includes headcount trends, Qualification vs salary analysis, leave balance monitoring, age and gender breakdowns and cumulative growth trajectory to support HR decision-making and workforce planning.
-# 🍫 HR Analytics Dashboard (Nazdate Chocolate Company)
+# HR Analytics Dashboard (Nazdate Chocolate Company)
 
-## 📖 Overview
+## Overview
 This repository contains a Power BI dashboard analyzing HR data from **Nazdate Chocolate Company**.  
 The dashboard provides insights into workforce demographics, salary distribution, leave balance, and staff growth trends over time.  
 
@@ -10,7 +10,7 @@ The goal is to help HR teams monitor employee metrics, identify patterns, and ma
 
 ---
 
-## 🛠️ Key Steps in Building the Dashboard
+## Key Steps in Building the Dashboard
 1. **Data Preparation**
    - Imported Nazdate Chocolate HR dataset into Power BI.
    - Renamed dataset to **Staff**.
@@ -50,7 +50,7 @@ The goal is to help HR teams monitor employee metrics, identify patterns, and ma
 
 ---
 
-## 📊 Insights
+## Insights
 - Rapid staff growth observed between **Sep 2018 – Dec 2018**.
 - Product Managers have the highest average salaries, supported by decent headcount.
 - Leave balance analysis shows some employees saving >20 days, indicating possible overwork.
@@ -59,7 +59,7 @@ The goal is to help HR teams monitor employee metrics, identify patterns, and ma
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - `Nazdate_Hr_Data.xlsx` → Raw HR dataset (Nazdate Chocolate HR Data).
 - `HR Analytics Dashboard.pbix` → Power BI dashboard file.
 - `HR ANALYTICS.png` → Image of the dashboard.
@@ -68,7 +68,7 @@ The goal is to help HR teams monitor employee metrics, identify patterns, and ma
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 https://github.com/Parveen-Patel/HR-ANALYTICS-Workforce-growth-and-Current-Staff-Insights/blob/main/HR%20ANALYTICS.png
 
 
